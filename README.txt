@@ -1,2 +1,5 @@
 Atividade 2 Logica de programação
-foi adicionado o pacote "readline-sync" para capturar entrada no console
+
+Foi adicionado o pacote "readline-sync" para capturar entrada no console
+
+	Executar o comando "npm install readline-sync" dentro da pasta projeto.
